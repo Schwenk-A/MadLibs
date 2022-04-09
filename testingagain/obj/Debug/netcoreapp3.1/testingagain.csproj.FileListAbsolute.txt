@@ -1,0 +1,28 @@
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.exe
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.deps.json
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.runtimeconfig.json
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.dll
+C:\Users\Andrea\source\repos\testingagain\testingagain\bin\Debug\netcoreapp3.1\testingagain.pdb
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.dll
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.pdb
+C:\Users\Andrea\source\repos\testingagain\testingagain\obj\Debug\netcoreapp3.1\testingagain.genruntimeconfig.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.dll
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.pdb
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.exe
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.deps.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.runtimeconfig.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.dll
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\testingagain.pdb
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\testingagain.genruntimeconfig.cache

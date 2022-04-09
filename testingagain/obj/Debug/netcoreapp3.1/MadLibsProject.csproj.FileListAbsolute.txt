@@ -1,0 +1,14 @@
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.exe
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.deps.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.runtimeconfig.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.dll
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\bin\Debug\netcoreapp3.1\MadLibsProject.pdb
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.dll
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.pdb
+C:\Users\Andrea\source\repos\Madlibs project\testingagain\obj\Debug\netcoreapp3.1\MadLibsProject.genruntimeconfig.cache
